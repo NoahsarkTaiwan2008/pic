@@ -1,6 +1,6 @@
 @echo off
-echo "upload..."
+echo upload...
 git add .
 git commit -m "update"
 git push
-echo "finish."
+echo finish.
