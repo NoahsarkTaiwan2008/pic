@@ -1,3 +1,4 @@
+@echo off
 echo "update..."
 git add .
 git commit -m "update"
