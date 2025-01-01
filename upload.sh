@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull
+
 echo "Uploading to GitHub..."
 
 # 檢查是否在 Git 專案目錄內

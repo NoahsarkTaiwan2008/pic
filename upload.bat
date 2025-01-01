@@ -1,4 +1,7 @@
 @echo off
+
+git pull
+
 echo Uploading to GitHub...
 
 REM 檢查變更狀態
